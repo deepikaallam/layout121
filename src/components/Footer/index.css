@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: #cbd5e1;
+  text-align: center;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 80px;
+  align-self: stretch;
+  padding-top: 15px;
+}
+
+.footer-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #475569;
+}
